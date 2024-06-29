@@ -8,11 +8,17 @@
 ### Project Overview and Objectives
 Analyze the relationship between mental health and age in adults between the ages of 18 and 99 in the United States.
 
-🟣 **Research Question:** What ages experience the most "no good" mental health days?
+🟣 **Research Question:** 
 
-🟣 **Alternative Hypothesis (H1):** There is no significant difference in the number of 'no good' mental health days reported across different age groups.
+What ages experience the most "no good" mental health days?
 
-🟣 **Null Hypothesis (H0):** There is a significant difference in the number of 'no good' mental health days reported across different age groups.
+🟣 **Alternative Hypothesis (H1):** 
+
+There is no significant difference in the number of 'no good' mental health days reported across different age groups.
+
+🟣 **Null Hypothesis (H0):** 
+
+There is a significant difference in the number of 'no good' mental health days reported across different age groups.
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -77,14 +83,17 @@ Overall, ages 55+ and 18-34 experience more "no good" mental health days compare
 ------------------------------------------------------------------------------------------------------------------------
 
 🟣 **Research Question:**
+
 What ages experience the most "no good" mental health days?
 - Individuals in the age group 55+ experience the most "no good" mental health days, as they have a moderately stronger positive correlation (0.11) with poor mental health days compared to the age group 18-34 with a weaker correlation (0.08). Indicating that while younger individuals may experience some "no good" mental health days, the impact is not as significant as it is for older individuals. Additionally, the relationship between age and general health may further impact mental health outcomes.
 
 🟣 **Null Hypothesis (H0):**
+
 Suggests there is no significant difference in the number of 'no good' mental health days reported across different age groups.
 - We reject the Null Hypothesis (H0), as there is evidence suggesting a significant difference in 'no good' mental health days across different age groups.
 
 🟣 **Alternative Hypothesis (H1):**
+
 Suggests there is a significant difference in the number of 'no good' mental health days reported across different age groups.
 - We accept the Alternative Hypothesis (H1), as there is evidence that there is a significant difference of 'no good' mental health days across different age groups.
 

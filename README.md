@@ -28,10 +28,10 @@ This project employs a structured methodology consisting of (Data cleaning, Expl
 -
 
 ## Files:
-**Data** - Contains raw data, preprocessed data, and the location where the data was collected
-**Jupyter Notebook** - The full source code along with explanations as a .ipynb file
-**Python Code** - The full source code along with explanations as a .py file
-**Results** - Summary Statistics, Visualizations, and Final Evaluation of the project
+- **Data** - Contains raw data, preprocessed data, and the location where the data was collected
+- **Jupyter Notebook** - The full source code along with explanations as a .ipynb file
+- **Python Code** - The full source code along with explanations as a .py file
+- **Results** - Summary Statistics, Visualizations, and Final Evaluation of the project
 
 
 

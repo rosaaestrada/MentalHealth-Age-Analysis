@@ -24,8 +24,12 @@ This project employs a structured methodology consisting of (Data cleaning, Expl
 - The Blackberry Center. (2020, December 28). Mental Health Statistics in 2020 Compared to 2019 - BBC. The Blackberry Center. Retrieved March 27, 2023, from https://www.theblackberrycenter.com/mental-health-statistics-in-2020-compared-to-2019/
 
 ## Built with:
-- Python=
--
+- Python= 3.9.13
+- Pandas= 1.4.4
+- NumPy= 1.21.5
+- Seaborn= 0.11.2
+- Statsmodels= 0.13.2
+- Matplotlib= 3.5.2
 
 ## Files:
 - **Data** - Contains raw data, preprocessed data, and the location where the data was collected

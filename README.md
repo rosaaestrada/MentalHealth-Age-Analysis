@@ -30,6 +30,7 @@ This project employs a structured methodology consisting of (Data cleaning, Expl
 - Seaborn= 0.11.2
 - Statsmodels= 0.13.2
 - Matplotlib= 3.5.2
+- Dataset loaded with chunksize= 10000
 
 ## Files:
 - **Data** - Contains raw data, preprocessed data, and the location where the data was collected

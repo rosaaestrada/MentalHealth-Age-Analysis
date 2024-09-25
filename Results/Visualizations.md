@@ -27,7 +27,14 @@
 ## Pie Chart distribution of MentalHealth conditions by Age group
 <img src= "" alt= "" width= "500" height= "500">
 
+- The largest segment (35.7%) corresponds to the age group 55+
+- Age 35 to 54 account for 29.7%
+- The smallest segment (19.6%) represents mental health conditions in the youngest age group.
+
 ## Chi-square heatmap between Age and MentalHealth
 <img src= "" alt= "" width= "500" height= "500">
+
+- Darker shades of green and blue indicate higher frequencies, suggesting a correlation.
+- The '55+' age group shows elevated frequencies in both mental health categories. 
 
 

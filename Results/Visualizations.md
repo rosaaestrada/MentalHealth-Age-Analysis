@@ -12,14 +12,17 @@
 ## Trend of MentalHealth Days over Age
 <img src= "" alt= "" width= "500" height= "500">
 
+- As age increases, the average mental health days decrease.
 
 ## Average No Good MentalHealth days by Age group
 <img src= "" alt= "" width= "500" height= "500">
 
+- Reveals that the 55+ age group expereinces the highest average number of poor mental health days.
 
-## Average MentalHealth Days by GeneralHealth Status
+## Average No Good MentalHealth Days by GeneralHealth Status
 <img src= "" alt= "" width= "500" height= "500">
-<img src= "" alt= "" width= "500" height= "500">
+
+- Reveals that individuals with 'Poor' general health status report significantly more no good mental health days compared to those with 'Excellent' or 'Good' health statuses.
 
 ## Pie Chart distribution of MentalHealth conditions by Age group
 <img src= "" alt= "" width= "500" height= "500">

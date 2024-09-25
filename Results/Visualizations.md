@@ -31,11 +31,6 @@
 - Age 35 to 54 account for 29.7%
 - The smallest segment (19.6%) represents mental health conditions in the youngest age group.
 
-## Pie Chart distribution of MentalHealth conditions by Age group
-<img src= "" alt= "" width= "500" height= "500">
-
-- All p-values are above 0.4, suggesting that the differences between groups may not be statistically at
-
 ## Chi-square heatmap between Age and MentalHealth
 <img src= "" alt= "" width= "500" height= "500">
 

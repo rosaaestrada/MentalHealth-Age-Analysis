@@ -2,7 +2,7 @@
 
 [Kaggle.com: rosaaestrada - Mental Health & Age Analysis Among U.S. Adults](https://www.kaggle.com/code/rosaaestrada/mental-health-age-analysis-among-u-s-adults/edit/run/185611886)
 
-[public.tableau.com: rosa.estrada6858 - Factors Influencing 'No Good' Mental Health Days](https://public.tableau.com/views/FactorsInfluencingNoGoodMentalHealthDays/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[public.tableau.com: rosaestrada - Factors Influencing 'No Good' Mental Health Days](https://public.tableau.com/views/FactorsInfluencingNoGoodMentalHealthDays/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img src= "https://github.com/rosaaestrada/MentalHealth-Age-Analysis/blob/main/Results/Images/Avg%20No%20Good%20MentalHealth%20Days%20by%20Age%20Group.png?raw=true" alt= "Avg No Good MentalHealth Days by Age Group" width= "" height= "">
 

@@ -1,6 +1,6 @@
 # Visualizations
 
-[public.tableau.com: rosa.estrada6858 - Factors Influencing 'No Good' Mental Health Days](https://public.tableau.com/views/FactorsInfluencingNoGoodMentalHealthDays/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[public.tableau.com: rosaestrada - Factors Influencing 'No Good' Mental Health Days](https://public.tableau.com/views/FactorsInfluencingNoGoodMentalHealthDays/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Correlation Matrix Heatmap of features by MentalHealth
 <img src= "https://github.com/rosaaestrada/MentalHealth-Age-Analysis/blob/main/Results/Images/Corr%20Heatmap%20of%20features%20by%20MentalHealth.png?raw=true" alt= "Correlation Matrix Heatmap of features by MentalHealth" width= "650" height= "510">

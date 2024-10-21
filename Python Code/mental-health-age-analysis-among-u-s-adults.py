@@ -49,6 +49,20 @@ file_path = '/kaggle/input/behavioral-risk-factor-surveillance-system/LLCP2018.X
 
 BRFSS = pd.read_sas(file_path)
 
+# Create chunks of size 10,000 
+chunk_size = 10000
+BRFSS_chunks = [Original_BRFSS[i:i + chunk_size] 
+                for i in range(0, Original_BRFSS.shape[0], chunk_size)]
+
+# Remove duplicates for each chunk (if any) and concatenate them
+BRFSS_chunks = [chunk.drop_duplicates() for chunk in BRFSS_chunks]
+
+# Concatenate all chunks into a single DataFrame
+BRFSS = pd.concat(BRFSS_chunks, ignore_index=True)
+
+# Optional: Remove duplicates from the final DataFrame (if needed)
+BRFSS = BRFSS.drop_duplicates()
+
 
 # #### **Variables used in this study and questions that were asked:**
 # 

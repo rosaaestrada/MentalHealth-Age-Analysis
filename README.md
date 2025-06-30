@@ -40,11 +40,11 @@ This project employs a structured methodology consisting of (Data cleaning, Expl
 - **Python Code** - The full source code along with explanations as a .py file
 - **Results** - Summary Statistics, Visualizations, and Final Evaluation of the project
   
-/Data # Raw, cleaned, and processed datasets
-/Jupyter Notebook # Full .ipynb file with narrative explanations
-/Python Code # .py scripts for reproducibility
-/Results # Key plots, final model results, evaluation metrics
-/Report # Summary slides or PDF
+/Data   # Raw, cleaned, and processed datasets
+/Jupyter Notebook   # Full .ipynb file with narrative explanations
+/Python Code   # .py scripts for reproducibility
+/Results   # Key plots, final model results, evaluation metrics
+/Report   # Summary slides or PDF
 
 
 
